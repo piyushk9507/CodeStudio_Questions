@@ -53,7 +53,6 @@ Sample Output 2 :
 1
 0
 
-
 */
 
 
